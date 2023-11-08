@@ -1,0 +1,11 @@
+{
+    "name": "Jester Molina",
+    "age": 26,
+    "city": "Auburn, WA",
+    "interests": [
+        "Dancing",
+        "Video Games",
+        "Music"
+    ],
+    "is_student": true
+}
